@@ -3,6 +3,7 @@
 
 - 🌱 Dev Front-End e Mobile Junior - Javascript, Typescript, React, React Native, Dart e Flutter
 - 📫 Contate-me no email: jhilton930@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/hiltonsantos9
 - 😄 ele/dele
 
 ##
