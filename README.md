@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Hilton Santos 👋
 
 
-- 🌱 Dev Front-End e Mobile Junior - Javascript, Typescript, React, React Native, Dart e Flutter
+- 🌱 Dev Front-End e Mobile Junior -  React, Next.js, React Native, Flutter Javascript, Typescript e Dart
 - 📫 Contate-me no email: jhilton930@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/hiltonsantos9
 - 😄 ele/dele
