@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Hilton Santos 👋
 
-- 🌱 **Desenvolvedor Front-End e Mobile Júnior**
-  - **Tecnologias:** React, Next.js, Vue.js, Nuxt3, React Native, Flutter, JavaScript, TypeScript e Dart
+- 🌱 **Desenvolvedor Full-stack Pleno**
+  - **Tecnologias:** React, Next.js, Vue.js, Nuxt3, React Native, Flutter, Nodejs, Nitro, Express
 - 📫 **Contato:** jhilton930@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/hiltonsantos9](https://www.linkedin.com/in/hiltonsantos9)
 - 😄 **Pronome:** ele/dele
