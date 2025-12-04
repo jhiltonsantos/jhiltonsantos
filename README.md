@@ -55,22 +55,6 @@ Embora meu foco seja o Front-end, minha experiência com **Node.js, Nitro e Pris
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
----
-
-### 🚀 Projetos em Destaque
-
-#### 📊 [Subscrip - SaaS Financeiro](LINK_DO_REPO_AQUI)
-Gestor inteligente de assinaturas com foco em recorrência e dashboards analíticos.
-- **Tech:** Next.js 14 (App Router), Server Actions, Prisma, TailwindCSS.
-- **Destaque:** Uso de **React Server Components** para máxima performance e **Optimistic UI** para interações instantâneas.
-
-#### 📅 [API de Agendamento Multi-fuso](LINK_DO_REPO_AQUI)
-Sistema de agendamento complexo com suporte a timezones e prevenção de conflitos.
-- **Tech:** Node.js, Nitro Server, Swagger.
-- **Destaque:** Lógica robusta de validação e arquitetura serverless-ready.
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhiltonsantos&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhiltonsantos&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
