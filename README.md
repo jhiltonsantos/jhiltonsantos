@@ -25,6 +25,7 @@ Sou um **Desenvolvedor Full Stack** com foco em entregar resultados de alto impa
 * 🎨 **UX/UI:** Implementação Pixel Perfect e interfaces responsivas.
 
 Focado em Clean Architecture, SOLID e DDD, busco sempre a melhor harmonia entre UX/UI impecável e sistemas seguros.
+
 ---
 
 ### 🛠️ Tech Stack
