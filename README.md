@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Hilton Santos 👋
 
 <div align="center">
-  <h3>Desenvolvedor Front-end Pleno | React & Vue Ecosystem</h3>
+  <h3>Desenvolvedor Full-stack | React & Vue Ecosystem</h3>
   <p>Especialista na construção de interfaces escaláveis, alta performance e arquitetura moderna (Next.js & Nuxt).</p>
 </div>
 
