@@ -18,14 +18,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Front-end** com forte background em **Full Stack**. Atualmente, lidero o desenvolvimento de interfaces em plataformas EdTech, focando em:
+Sou um **Desenvolvedor Full Stack** com foco em entregar resultados de alto impacto técnico e de negócio. Minha atuação transita entre interfaces performáticas e back-ends robustos, com destaque para:
 
-* 🚀 **Performance:** Core Web Vitals, SSR e renderização híbrida.
-* 🏗️ **Arquitetura:** React Server Components (RSC), Design Systems e Microfrontends.
+* 🎓 **EdTech & IA**: Liderança técnica em plataformas de ensino, implementando protocolos complexos como LTI 1.3 e integração com IA.
+* 🏗️ **Arquitetura High-End**: Desenvolvimento de APIs via Nitro Server e arquitetura Serverless para máxima performance.
 * 🎨 **UX/UI:** Implementação Pixel Perfect e interfaces responsivas.
 
-Embora meu foco seja o Front-end, minha experiência com **Node.js, Nitro e Prisma** me permite criar integrações robustas e facilitar a comunicação com times de Back-end.
-
+Focado em Clean Architecture, SOLID e DDD, busco sempre a melhor harmonia entre UX/UI impecável e sistemas seguros.
 ---
 
 ### 🛠️ Tech Stack
