@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Hilton Santos 👋
 
 <div align="center">
-  <h3>Desenvolvedor Full-stack | React & Vue Ecosystem</h3>
-  <p>Especialista na construção de interfaces escaláveis, alta performance e arquitetura moderna (Next.js & Nuxt).</p>
+  <h3>Desenvolvedor Full-stack</h3>
+  <p>Construção de aplicações web estáveis e integradas utilizando o ecossistema JavaScript/TypeScript moderno (Vue.js, Nuxt 3, React e Next.js).</p>
 </div>
 
 <div align="center">
@@ -16,26 +16,46 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim & Fluxo de Trabalho
 
-Sou um **Desenvolvedor Full Stack** com foco em entregar resultados de alto impacto técnico e de negócio. Minha atuação transita entre interfaces performáticas e back-ends robustos, com destaque para:
+Sou desenvolvedor Full Stack com 7 anos de experiência focados na arquitetura e evolução de produtos digitais estáveis. Meu trabalho se destaca pelo controle do ambiente de desenvolvimento e pela autonomia técnica na entrega de soluções de ponta a ponta.
 
-* 🎓 **EdTech & IA**: Liderança técnica em plataformas de ensino, implementando protocolos complexos como LTI 1.3 e integração com IA.
-* 🏗️ **Arquitetura High-End**: Desenvolvimento de APIs via Nitro Server e arquitetura Serverless para máxima performance.
-* 🎨 **UX/UI:** Implementação Pixel Perfect e interfaces responsivas.
+* 🛠️ **Domínio de Ambiente e Ferramentas**: Gerencio ambientes de desenvolvimento UNIX-based (Linux/Pop!_OS) utilizando **Zsh** customizado com rotinas de automação. Uso **NVM** para isolamento de versões do Node e **PNPM** para gerenciamento otimizado de dependências e performance de cache em monorepos.
+* ⚙️ **Integração e Testes (API-First)**: Ampla vivência no consumo de APIs REST e microsserviços. Utilizo o **Postman** de forma diária para validação de payloads, testes de integração de endpoints e modelagem de contratos de dados (com validações via **Zod**).
+* 🎨 **Figma p/ Código (Pixel Perfect)**: Experiência prática na interpretação, extração de assets e tradução de layouts complexos do **Figma** para componentes reativos e semânticos usando **Tailwind CSS** e **SASS/SCSS**.
 
-Focado em Clean Architecture, SOLID e DDD, busco sempre a melhor harmonia entre UX/UI impecável e sistemas seguros.
+---
+
+### 💼 Experiência Profissional
+
+* **Skill5 (2023 - Atual)** | *Desenvolvedor Full Stack Pleno*
+  Atuação direta no desenvolvimento e manutenção de sistemas web transacionais e SaaS. Responsável pela arquitetura de microsserviços no back-end e otimização de interfaces front-end, alcançando melhorias de até 65% em métricas de Core Web Vitals através de carregamento on-demand.
+
+* **Fido (2023 - 2023)** | *Desenvolvedor Front-end Pleno*
+  Foco na criação de aplicações web com React e aplicativos mobile nativos com React Native voltados para fluxos de crédito de alta conversão. Implementação de arquiteturas de estado complexo com **Redux** para garantir consistência de dados financeiros entre telas distintas.
+
+* **Instituto Dom Barreto (2019 - 2023)** | *Desenvolvedor Web*
+  Modernização de sistemas internos e desenvolvimento de APIs em Python com Django REST Framework para formulários dinâmicos de matrículas online, além da criação de um painel administrativo (CMS) personalizado para gerenciamento de conteúdo institucional.
+
+---
+
+### 💡 Especialidades e Contextos de Negócio
+
+* 🏗️ **Arquitetura de Integração**: Uso do Nuxt 3 e Nitro Server para construir camadas de Backend-for-Frontend otimizadas, acoplando lógica serverless de baixo cold-start e bancos de dados relacionais.
+* 🎓 **Sistemas de Ensino (EdTech)**: Experiência técnica no desenvolvimento de plataformas corporativas de aprendizagem (LMS), integrando e estendendo funcionalidades via protocolo **LTI 1.3** com plataformas de mercado como Moodle, Canvas e Blackboard.
+* 🤖 **Integrações de IA Generativa**: Implementação prática de chamadas e tratamento de fluxos de dados com modelos de linguagem (LLMs) integrados ao fluxo do usuário, utilizando técnicas de streaming de dados para otimização de latência.
+* 🤖 **Engenharia Assistida por IA**: Uso direcionado do *Plan Mode* em IDEs como Cursor e Claude Code para estruturar contratos de dados, planejar arquivos e prever complexidade/tempo antes de iniciar a codificação técnica.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Front-end Core:**
+**Front-end:**
 <div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Nuxt_3-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
+  <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
+  <img src="https://img.shields.io/badge/React_/_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
@@ -43,18 +63,19 @@ Focado em Clean Architecture, SOLID e DDD, busco sempre a melhor harmonia entre 
 **Back-end & Infra:**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nitro-FFB000?style=for-the-badge&logo=unjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nitro_Server-FFB000?style=for-the-badge&logo=unjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logicColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-**Qualidade & Ferramentas:**
+**Qualidade & Rotina:**
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
