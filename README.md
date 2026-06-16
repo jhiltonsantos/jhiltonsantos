@@ -20,10 +20,6 @@
 
 Sou desenvolvedor Full Stack com 7 anos de experiência focados na arquitetura e evolução de produtos digitais estáveis. Meu trabalho se destaca pelo controle do ambiente de desenvolvimento e pela autonomia técnica na entrega de soluções de ponta a ponta.
 
-* 🛠️ **Domínio de Ambiente e Ferramentas**: Gerencio ambientes de desenvolvimento UNIX-based (Linux/Pop!_OS) utilizando **Zsh** customizado com rotinas de automação. Uso **NVM** para isolamento de versões do Node e **PNPM** para gerenciamento otimizado de dependências e performance de cache em monorepos.
-* ⚙️ **Integração e Testes (API-First)**: Ampla vivência no consumo de APIs REST e microsserviços. Utilizo o **Postman** de forma diária para validação de payloads, testes de integração de endpoints e modelagem de contratos de dados (com validações via **Zod**).
-* 🎨 **Figma p/ Código (Pixel Perfect)**: Experiência prática na interpretação, extração de assets e tradução de layouts complexos do **Figma** para componentes reativos e semânticos usando **Tailwind CSS** e **SASS/SCSS**.
-
 ---
 
 ### 💼 Experiência Profissional
