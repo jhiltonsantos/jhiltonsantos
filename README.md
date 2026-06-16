@@ -24,7 +24,7 @@ Sou desenvolvedor Full Stack com 7 anos de experiência focados na arquitetura e
 
 ### 💼 Experiência Profissional
 
-* **Skill5 (2023 - Atual)** | *Desenvolvedor Full Stack Pleno*
+* **Skill5/DefSafe (2023 - Atual)** | *Desenvolvedor Full Stack Pleno*
   Atuação direta no desenvolvimento e manutenção de sistemas web transacionais e SaaS. Responsável pela arquitetura de microsserviços no back-end e otimização de interfaces front-end, alcançando melhorias de até 65% em métricas de Core Web Vitals através de carregamento on-demand.
 
 * **Fido (2023 - 2023)** | *Desenvolvedor Front-end Pleno*
