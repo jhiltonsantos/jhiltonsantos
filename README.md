@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim & Fluxo de Trabalho
+### 👨‍💻 Sobre Mim
 
 Desenvolvedor Full Stack e Front-end Pleno, com mais de 6 anos de experiência desenvolvendo aplicações web e mobile nos setores de Edtech e Fintech.
 
