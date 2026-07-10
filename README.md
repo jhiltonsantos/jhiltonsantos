@@ -18,7 +18,11 @@
 
 ### 👨‍💻 Sobre Mim & Fluxo de Trabalho
 
-Sou desenvolvedor Full Stack com 7 anos de experiência focados na arquitetura e evolução de produtos digitais estáveis. Meu trabalho se destaca pelo controle do ambiente de desenvolvimento e pela autonomia técnica na entrega de soluções de ponta a ponta.
+Desenvolvedor Full Stack e Front-end Pleno, com mais de 6 anos de experiência desenvolvendo aplicações web e mobile nos setores de Edtech e Fintech.
+
+Atuação no ciclo completo de desenvolvimento de software, desde a arquitetura de interfaces responsivas e escaláveis até rotinas de backend e soluções serverless. Foco em otimização de performance, eficiência de fluxos críticos e integração de tecnologias de Inteligência Artificial para elevar a experiência do usuário e a confiabilidade dos produtos.
+
+Vivência sólida no ecossistema JavaScript, com destaque para o domínio de Nuxt 3, Vue.js, Next.js, React, React Native e Node.js. Especialidade técnica em arquitetura serverless (AWS), modelagem de APIs estáveis e integração prática de agentes de IA no fluxo de desenvolvimento.
 
 ---
 
