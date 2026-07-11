@@ -39,15 +39,6 @@ Vivência sólida no ecossistema JavaScript, com destaque para o domínio de Nux
 
 ---
 
-### 💡 Especialidades e Contextos de Negócio
-
-* 🏗️ **Arquitetura de Integração**: Uso do Nuxt 3 e Nitro Server para construir camadas de Backend-for-Frontend otimizadas, acoplando lógica serverless de baixo cold-start e bancos de dados relacionais.
-* 🎓 **Sistemas de Ensino (EdTech)**: Experiência técnica no desenvolvimento de plataformas corporativas de aprendizagem (LMS), integrando e estendendo funcionalidades via protocolo **LTI 1.3** com plataformas de mercado como Moodle, Canvas e Blackboard.
-* 🤖 **Integrações de IA Generativa**: Implementação prática de chamadas e tratamento de fluxos de dados com modelos de linguagem (LLMs) integrados ao fluxo do usuário, utilizando técnicas de streaming de dados para otimização de latência.
-* 🤖 **Engenharia Assistida por IA**: Uso direcionado do *Plan Mode* em IDEs como Cursor e Claude Code para estruturar contratos de dados, planejar arquivos e prever complexidade/tempo antes de iniciar a codificação técnica.
-
----
-
 ### 🛠️ Tech Stack
 
 **Front-end:**
