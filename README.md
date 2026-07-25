@@ -28,10 +28,10 @@ Vivência sólida no ecossistema JavaScript, com destaque para o domínio de Nux
 
 ### 💼 Experiência Profissional
 
-* **Skill5/DefSafe (2023 - Atual)** | *Desenvolvedor Full Stack Pleno*
+* **Skill5/DefSafe (2024 - Atual)** | *Desenvolvedor Full Stack Pleno*
   Atuação direta no desenvolvimento e manutenção de sistemas web transacionais e SaaS. Responsável pela arquitetura de microsserviços no back-end e otimização de interfaces front-end, alcançando melhorias de até 65% em métricas de Core Web Vitals através de carregamento on-demand.
 
-* **Fido (2023 - 2023)** | *Desenvolvedor Front-end Pleno*
+* **Fido (2023 - 2024)** | *Desenvolvedor Front-end Pleno*
   Foco na criação de aplicações web com React e aplicativos mobile nativos com React Native voltados para fluxos de crédito de alta conversão. Implementação de arquiteturas de estado complexo com **Redux** para garantir consistência de dados financeiros entre telas distintas.
 
 * **Instituto Dom Barreto (2019 - 2023)** | *Desenvolvedor Web*
