@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack e Front-end Pleno, com mais de 6 anos de experiência desenvolvendo aplicações web e mobile nos setores de Edtech e Fintech.
+Desenvolvedor Full Stack e Front-end, com mais de 6 anos de experiência desenvolvendo aplicações web e mobile nos setores de Edtech e Fintech.
 
 Atuação no ciclo completo de desenvolvimento de software, desde a arquitetura de interfaces responsivas e escaláveis até rotinas de backend e soluções serverless. Foco em otimização de performance, eficiência de fluxos críticos e integração de tecnologias de Inteligência Artificial para elevar a experiência do usuário e a confiabilidade dos produtos.
 
