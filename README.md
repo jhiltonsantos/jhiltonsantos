@@ -2,15 +2,18 @@
 
 <div align="center">
   <h3>Desenvolvedor Full-stack</h3>
-  <p>Construção de aplicações web estáveis e integradas utilizando o ecossistema JavaScript/TypeScript moderno (Vue.js, Nuxt 3, React e Next.js).</p>
+  <p>Especializado em arquiteturas modernas, transformo complexidade em interfaces fluidas e intuitivas.</p>
 </div>
 
 <div align="center">
   <a href="mailto:jhilton930@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="https://www.hiltondev.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfólio">
   </a>
   <a href="https://www.linkedin.com/in/hiltonsantos9" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn">
   </a>
 </div>
 
