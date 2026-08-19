@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Gmail">
   </a>
   <a href="https://www.hiltondev.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfolio-00391d?style=for-the-badge" alt="Portfólio">
   </a>
   <a href="https://www.linkedin.com/in/hiltonsantos9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn">
